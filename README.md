@@ -1,4 +1,15 @@
-# Awesome-Store-Audit-Platform
+# 🚀 Awesome Store Audit Platform
+
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Store Audit Platform Banner" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</div>
+
 
 ## Top Store Audit Platforms Ecosystem
 
@@ -28,7 +39,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## Table of Contents
+## 📚 Table of Contents
 
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
@@ -40,98 +51,55 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
+## 🏢 SaaS/Hosted Platforms
 
-| Product | Description | Pricing | Free Tier Limit |
-| :--- | :--- | :--- | :--- |
-| **[SafetyCulture (iAuditor)](https://safetyculture.com/)** | Leading mobile-first inspection and audit platform with digital checklists, photo evidence, issue tracking, corrective actions, and templates used widely across retail and other industries. | ~$24/user/mo | Up to 10 users, 5 active templates |
-| **[GoSpotCheck / FORM MarketX](https://www.form.com/)** | Field execution and retail audit platform (formerly GoSpotCheck) focused on missions, structured tasks, photo capture, and analytics for CPG and retail field teams. | ~$35-40/user/mo | N/A |
-| **[Repsly](https://www.repsly.com/)** | Retail execution management platform for store visits, customizable audit forms, merchandising checks, photo documentation, route planning, and rep performance tracking. | Custom (~$29/user/mo) | N/A |
-| **[FORM MarketX](https://www.form.com/)** | Mobile workflows for retail audits, merchandising, inspections, and field operations with task management and evidence capture. | Custom | N/A |
-| **[MeazureUp](https://www.meazureup.com/)** | Store audit and retail execution solution focused on compliance scoring, photo audits, and operational insights for multi-location businesses. | Custom | N/A |
-| **[Zenput](https://www.zenput.com/)** | Multi-location operations platform that helps enforce standards through digital checklists, audits, task management, and real-time visibility across stores. | Custom | N/A |
-| **[AuditPro](https://www.auditpro.com/)** | Audit and inspection software supporting structured store and operational audits with reporting and compliance tracking. | ~$60/year or Custom | N/A |
-| **[GoAudits](https://www.goaudits.com/)** | Mobile audit and inspection app designed for fast field checks, offline capability, scored audits, photo evidence, and corrective action workflows. | From ~$14/user/mo | N/A (14-day free trial) |
-| **[FlowPath Audits](https://www.flowpath.com/)** | Operations and audit platform that combines inspections, work orders, and facility/store compliance management. | Custom flat rate | N/A |
-| **[iAuditor](https://safetyculture.com/iauditor/)** | The original SafetyCulture inspection product (now fully integrated into the SafetyCulture platform) known for flexible templates and mobile auditing. | ~$24/user/mo | Up to 10 users, 5 active templates |
+| Product | Description | Pricing | Free Tier Limit | Company Size |
+| :--- | :--- | :--- | :--- | :--- |
+| **[SafetyCulture (iAuditor)](https://safetyculture.com/)** | Leading mobile-first inspection and audit platform with digital checklists, photo evidence, issue tracking, corrective actions, and templates used widely across retail and other industries. | ~$24/user/mo | Up to 10 users, 5 active templates | $2.7B Valuation |
+| **[GoSpotCheck / FORM MarketX](https://www.form.com/)** | Field execution and retail audit platform (formerly GoSpotCheck) focused on missions, structured tasks, photo capture, and analytics for CPG and retail field teams. | ~$35-40/user/mo | N/A | ~$100M Revenue |
+| **[Zenput](https://www.zenput.com/)** | Multi-location operations platform that helps enforce standards through digital checklists, audits, task management, and real-time visibility across stores. | Custom | N/A | ~$50M Revenue |
+| **[Repsly](https://www.repsly.com/)** | Retail execution management platform for store visits, customizable audit forms, merchandising checks, photo documentation, route planning, and rep performance tracking. | Custom (~$29/user/mo) | N/A | ~$20M Revenue |
+| **[MeazureUp](https://www.meazureup.com/)** | Store audit and retail execution solution focused on compliance scoring, photo audits, and operational insights for multi-location businesses. | Custom | N/A | ~$15M Revenue |
+| **[FlowPath Audits](https://www.flowpath.com/)** | Operations and audit platform that combines inspections, work orders, and facility/store compliance management. | Custom flat rate | N/A | ~$10M Revenue |
+| **[GoAudits](https://www.goaudits.com/)** | Mobile audit and inspection app designed for fast field checks, offline capability, scored audits, photo evidence, and corrective action workflows. | From ~$14/user/mo | N/A (14-day free trial) | ~$5M Revenue |
+| **[AuditPro](https://www.auditpro.com/)** | Audit and inspection software supporting structured store and operational audits with reporting and compliance tracking. | ~$60/year or Custom | N/A | ~$5M Revenue |
 
-## Open-Source GitHub Projects
+## 🌍 Open-Source GitHub Projects
 
+- **[nocodb](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
+  Open Source Airtable Alternative, great for building audit databases and tracking.
 
+- **[twenty](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+  Open-Source CRM which can be adapted for store management and audits.
 
-- **[OpenInspection](https://github.com/InspectorHub/OpenInspection)**  
-
-  Open-source inspection software with mobile field forms, professional reports, e-signatures, offline PWA support, and self-hosting options (originally oriented toward home inspections but adaptable).
-
-
-
-- **[Odoo Community + OCA Field Service](https://github.com/OCA/field-service)**  
-
-  Open-source ERP modules providing field service orders, routes, checklists, and operational workflows that can be extended for store audits and retail execution.
-
-
-
-- **[ERPNext](https://github.com/frappe/erpnext)**  
-
-  Full open-source ERP with maintenance, support, inventory, and customizable forms that nonprofits and retailers adapt for audit and compliance processes.
-
-
-
-- **[openMAINT](https://www.openmaint.org/)**  
-
-  Open-source CMMS and facility management system supporting inspections, asset checks, and maintenance workflows useful for multi-site operations.
-
-
-
-- **[Budibase](https://github.com/Budibase/budibase)**  
-
-  Open-source low-code platform for building internal tools, digital checklists, inspection forms, and custom audit applications quickly.
-
-
-
-- **[Appsmith](https://github.com/appsmithorg/appsmith)**  
-
+- **[appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
   Open-source low-code platform ideal for creating custom store audit dashboards, form-based inspections, and operational reporting tools.
 
+- **[erpnext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+  Full open-source ERP with maintenance, support, inventory, and customizable forms.
 
+- **[budibase](https://github.com/Budibase/budibase)** [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
+  Open-source low-code platform for building internal tools, digital checklists, inspection forms, and custom audit applications quickly.
 
-- **[Formbricks / open form builders](https://github.com/formbricks/formbricks)**  
-
+- **[formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
   Open-source survey and form platforms that can power digital checklists, feedback, and structured audit data collection.
 
+- **[field-service](https://github.com/OCA/field-service)** [![GitHub stars](https://img.shields.io/github/stars/OCA/field-service?style=social&color=white)](https://github.com/OCA/field-service/stargazers)  
+  Open-source ERP modules providing field service orders, routes, checklists, and operational workflows.
 
+- **[kpi](https://github.com/kobotoolbox/kpi)** [![GitHub stars](https://img.shields.io/github/stars/kobotoolbox/kpi?style=social&color=white)](https://github.com/kobotoolbox/kpi/stargazers)  
+  Field data collection tool suitable for mobile store audits.
 
-- **[OHIF / inspection-style viewers](https://github.com/OHIF)** and community checklist apps  
-
-  Various open-source form and checklist projects that support photo capture and structured data collection for field use.
-
-
-
-- **[LibreWO / work-order tools](https://github.com/)** (community work-order and CMMS projects)  
-
-  Lightweight open-source work-order and inspection trackers frequently adapted for retail and facility audits.
-
-
-
-- **[Clappia-style no-code patterns](https://github.com/)** and self-hosted form engines  
-
-  Open-source alternatives for building custom mobile inspection apps with offline support and workflows.
-
-
-
-- **[Auditree](https://github.com/ComplianceAsCode/auditree)**  
-
-  Evidence collection and verification framework (more compliance-oriented) that can support continuous audit evidence lockers.
-
-
-
-- **[CIS-Audit-Tool and checklist frameworks](https://github.com/SiteQ8/CIS-Audit-Tool)**  
-
+- **[CIS-Audit-Tool](https://github.com/SiteQ8/CIS-Audit-Tool)** [![GitHub stars](https://img.shields.io/github/stars/SiteQ8/CIS-Audit-Tool?style=social&color=white)](https://github.com/SiteQ8/CIS-Audit-Tool/stargazers)  
   Interactive checklist and progress-tracking tools that demonstrate patterns for building scored audit systems.
 
+- **[OpenInspection](https://github.com/InspectorHub/OpenInspection)** [![GitHub stars](https://img.shields.io/github/stars/InspectorHub/OpenInspection?style=social&color=white)](https://github.com/InspectorHub/OpenInspection/stargazers)  
+  Open-source inspection software with mobile field forms, professional reports, e-signatures, offline PWA support, and self-hosting options.
 
+- **[auditree](https://github.com/ComplianceAsCode/auditree)** [![GitHub stars](https://img.shields.io/github/stars/ComplianceAsCode/auditree?style=social&color=white)](https://github.com/ComplianceAsCode/auditree/stargazers)  
+  Evidence collection and verification framework that can support continuous audit evidence lockers.
 
-### Additional Strong Open-Source Options
+### 🔧 Additional Strong Open-Source Options
 
 
 
@@ -151,7 +119,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## How to Contribute
+## 🤝 How to Contribute
 
 
 
@@ -169,7 +137,7 @@ Star the repo if you find it useful!
 
 
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 
 
@@ -188,3 +156,15 @@ Star the repo if you find it useful!
 **Made for retail operations leaders, CPG field teams, multi-unit managers, and compliance practitioners.**  
 
 Let's make store audits more consistent, data-driven, and accessible.
+
+
+## 📈 Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007/Awesome-Store-Audit-Platform&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Store-Audit-Platform&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Store-Audit-Platform&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Store-Audit-Platform&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
