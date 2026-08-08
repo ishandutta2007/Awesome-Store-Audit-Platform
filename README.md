@@ -42,67 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[SafetyCulture (iAuditor)](https://safetyculture.com/)**  
-
-  Leading mobile-first inspection and audit platform with digital checklists, photo evidence, issue tracking, corrective actions, and templates used widely across retail and other industries.
-
-
-
-- **[GoSpotCheck / FORM MarketX](https://www.form.com/)**  
-
-  Field execution and retail audit platform (formerly GoSpotCheck) focused on missions, structured tasks, photo capture, and analytics for CPG and retail field teams.
-
-
-
-- **[Repsly](https://www.repsly.com/)**  
-
-  Retail execution management platform for store visits, customizable audit forms, merchandising checks, photo documentation, route planning, and rep performance tracking.
-
-
-
-- **[FORM MarketX](https://www.form.com/)**  
-
-  Mobile workflows for retail audits, merchandising, inspections, and field operations with task management and evidence capture.
-
-
-
-- **[MeazureUp](https://www.meazureup.com/)**  
-
-  Store audit and retail execution solution focused on compliance scoring, photo audits, and operational insights for multi-location businesses.
-
-
-
-- **[Zenput](https://www.zenput.com/)**  
-
-  Multi-location operations platform that helps enforce standards through digital checklists, audits, task management, and real-time visibility across stores.
-
-
-
-- **[AuditPro](https://www.auditpro.com/)**  
-
-  Audit and inspection software supporting structured store and operational audits with reporting and compliance tracking.
-
-
-
-- **[GoAudits](https://www.goaudits.com/)**  
-
-  Mobile audit and inspection app designed for fast field checks, offline capability, scored audits, photo evidence, and corrective action workflows.
-
-
-
-- **[FlowPath Audits](https://www.flowpath.com/)**  
-
-  Operations and audit platform that combines inspections, work orders, and facility/store compliance management.
-
-
-
-- **[iAuditor](https://safetyculture.com/iauditor/)**  
-
-  The original SafetyCulture inspection product (now fully integrated into the SafetyCulture platform) known for flexible templates and mobile auditing.
-
-
+| Product | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[SafetyCulture (iAuditor)](https://safetyculture.com/)** | Leading mobile-first inspection and audit platform with digital checklists, photo evidence, issue tracking, corrective actions, and templates used widely across retail and other industries. | ~$24/user/mo | Up to 10 users, 5 active templates |
+| **[GoSpotCheck / FORM MarketX](https://www.form.com/)** | Field execution and retail audit platform (formerly GoSpotCheck) focused on missions, structured tasks, photo capture, and analytics for CPG and retail field teams. | ~$35-40/user/mo | N/A |
+| **[Repsly](https://www.repsly.com/)** | Retail execution management platform for store visits, customizable audit forms, merchandising checks, photo documentation, route planning, and rep performance tracking. | Custom (~$29/user/mo) | N/A |
+| **[FORM MarketX](https://www.form.com/)** | Mobile workflows for retail audits, merchandising, inspections, and field operations with task management and evidence capture. | Custom | N/A |
+| **[MeazureUp](https://www.meazureup.com/)** | Store audit and retail execution solution focused on compliance scoring, photo audits, and operational insights for multi-location businesses. | Custom | N/A |
+| **[Zenput](https://www.zenput.com/)** | Multi-location operations platform that helps enforce standards through digital checklists, audits, task management, and real-time visibility across stores. | Custom | N/A |
+| **[AuditPro](https://www.auditpro.com/)** | Audit and inspection software supporting structured store and operational audits with reporting and compliance tracking. | ~$60/year or Custom | N/A |
+| **[GoAudits](https://www.goaudits.com/)** | Mobile audit and inspection app designed for fast field checks, offline capability, scored audits, photo evidence, and corrective action workflows. | From ~$14/user/mo | N/A (14-day free trial) |
+| **[FlowPath Audits](https://www.flowpath.com/)** | Operations and audit platform that combines inspections, work orders, and facility/store compliance management. | Custom flat rate | N/A |
+| **[iAuditor](https://safetyculture.com/iauditor/)** | The original SafetyCulture inspection product (now fully integrated into the SafetyCulture platform) known for flexible templates and mobile auditing. | ~$24/user/mo | Up to 10 users, 5 active templates |
 
 ## Open-Source GitHub Projects
 
